@@ -1,0 +1,136 @@
+# Compiled class files
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+
+# Gradle dependency cache
+**/build/
+**/out/
+
+# Eclipse
+.project
+.classpath
+.metadata/
+**/bin/
+**/tmp/
+**/target/
+**/*.tmp
+**/*.bak
+**/*.swp
+**/*~.nib
+.local/
+.settings/
+loadpath.properties
+
+# IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nblibraries.properties
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+/.idea
+*.iws
+*.iml
+*.ipr
+.idea/
+out/
+
+# STS
+.springBeans
+
+# JBoss Tools
+/.settings/
+
+# Code Repositories
+*.rbc
+
+# Cucumber Reports
+cucumber-reports/
+
+# Binary Files
+*.class
+*.war
+*.jar
+*.ear
+*.dll
+*.exe
+*.pdb
+*.lib
+*.so
+*.dylib
+*.o
+*.a
+
+# Temporary Files
+*.swp
+*.temp
+*.tmp
+*~
+
+# Mac System Files
+.DS_Store
+
+# Windows System Files
+Thumbs.db
+desktop.ini
+
+# Linux System Files
+*~
+
+# SonarQube
+.sonar/
+.scannerwork/
+.sonarlint/
+
+# Coverage
+.coverage/
+coverage-final.json
+.nyc_output/
+
+# Build Results
+build/
+out/
+dist/
+
+# Project Specific Directories
+.gradle/
